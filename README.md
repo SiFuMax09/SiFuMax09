@@ -38,9 +38,4 @@ I'm a full stack developer in Web Development. I have experience with different 
 
 📫 How to reach me...
 - me@sifumax.social
-## My Roadmap
-
-- Finish my own Hosting
-
-- Add more Modules for WemX
 
