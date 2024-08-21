@@ -29,8 +29,6 @@ I'm a full stack developer in Web Development. I have experience with different 
 
 ## Other Questions? Here you go!
 
-👩‍💻 I'm currently working on Modues for WemX
-
 🧠 I'm currently learning how to improve my skills
 
 
