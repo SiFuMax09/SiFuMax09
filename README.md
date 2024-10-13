@@ -17,7 +17,6 @@ I'm a full stack developer in Web Development. I have experience with different 
 - Laravel
 - PHP
 - HTML
-- CSS
 - Tailwindcss
 - Bootstrap
 
