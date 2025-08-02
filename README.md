@@ -34,5 +34,5 @@ I'm a full stack developer in Web Development. I have experience with different 
 💬 Ask me anything!
 
 📫 How to reach me...
-- me@sifumax.social
+- me@max-witt.de
 
