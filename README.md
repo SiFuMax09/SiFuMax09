@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 I'm a full stack developer in Web Development. I have experience with different things in web development for example backend api's but also many other things.
-
+Developing since 2022
 
 
 ## 🛠 Skills
